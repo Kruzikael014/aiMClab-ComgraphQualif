@@ -1,0 +1,11 @@
+Model Information:
+* title:	TR guerilla
+* source:	https://sketchfab.com/3d-models/tr-guerilla-c3ccfd867f2a489b96c64c0300cf911b
+* author:	3axap (https://sketchfab.com/3axapV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TR guerilla" (https://sketchfab.com/3d-models/tr-guerilla-c3ccfd867f2a489b96c64c0300cf911b) by 3axap (https://sketchfab.com/3axapV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
